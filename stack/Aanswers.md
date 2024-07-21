@@ -9,7 +9,7 @@
 9. c) 3
 10. b) false
 11. a) isEmpty()
-12. b) 3, 2, 1, 5, 3
+12. b) 3 5 1 2 1
 13. a) LinkedList
 14. a) It checks if the stack is empty.
 15. c) peek()
