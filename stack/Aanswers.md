@@ -6,7 +6,7 @@
 6. d) remove()
 7. d) a & b (Array and Linked List)
 8. c) 3
-9. c) 3
+9. d) The code will result in a compilation error.
 10. b) false
 11. a) isEmpty()
 12. b) 3 5 1 2 1
