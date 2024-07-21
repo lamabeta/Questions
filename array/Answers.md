@@ -12,7 +12,7 @@
 12. a) int[][] myArray = new int[3][3];
 13. b) 3
 14. d) 4
-15. d) int[] myArray = new int(5);
+15. c) int[][] myArray = {{1, 2}, {3, 4}};
 16. d) 10
 17. d) 5
 18. d) int[] myArray = new int(5);
