@@ -15,4 +15,4 @@
 15. c) peek()
 16. c) 3, 2
 17. b) Stacks can only store elements of the same data type.
-18. b) 1, 2, 2
+18. c) 3, 3, 2
