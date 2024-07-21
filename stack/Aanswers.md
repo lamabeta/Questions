@@ -14,5 +14,5 @@
 14. a) It checks if the stack is empty.
 15. c) peek()
 16. c) 3, 2
-17. b) Stacks can only store elements of the same data type.
+17. d) There are no false statements.
 18. c) 3, 3, 2
