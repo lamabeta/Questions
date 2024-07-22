@@ -35,10 +35,10 @@
    d) (start / end) / 2
 
 7. What is the main difference between Sequential search and Binary search?
-   a) Sequential search is faster than Binary search.
-   b) Sequential search works on unsorted lists, while Binary search requires a sorted list.
-   c) Binary search has a better worst-case time complexity than Sequential search.
-   d) Binary search uses recursion, while Sequential search uses iteration.
+ a) Sequential search is faster than Binary search.
+ b) Sequential search works on unsorted lists, while Binary search requires a sorted list.
+ c) there is no main difference between them. 
+ d) Sequential Binary search uses recursion, while Binary search uses iteration.
 
 8. Which of the following is an example of when Sequential search is preferable over Binary search?
     a) Searching for a word in a dictionary.
